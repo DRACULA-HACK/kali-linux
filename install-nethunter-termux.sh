@@ -1,4 +1,4 @@
-#!/data/data/com.termux/files/usr/bin/bash -e
+#!/bin/bash
 
 VERSION=2020011601
 BASE_URL=https://images.kali.org/nethunter
