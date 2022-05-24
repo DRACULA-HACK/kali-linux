@@ -345,7 +345,7 @@ function print_banner() {
     printf "${blue}##  88       Y8b d8'          '8b 888888888 88  ##\n"
     printf "${green}##           https://github.com/DRACULA-HACK    ##\n"
     printf "${red}##            https://wa.me/+916235369260
-    printf "${blue}####  ############# NetHunter by MASTER-HACK ####${reset}\n\n"
+    printf "${blue}## ############# NetHunter by MASTER-HACK ## ##${reset}\n\n"
 }
    				echo " https://github.com/DRACULA-HACK "
    				
