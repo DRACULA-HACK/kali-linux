@@ -399,7 +399,7 @@ fix_sudo
 create_kex_launcher
 fix_uid
 
-print_banner
+
 printf "${green}[=] Kali NetHunter for Termux installed successfully${reset}\n\n"
 printf "${green}[+] To start Kali NetHunter, type:${reset}\n"
 printf "${green}[+] nethunter             # To start NetHunter CLI${reset}\n"
