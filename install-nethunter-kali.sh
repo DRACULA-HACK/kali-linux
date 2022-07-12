@@ -381,7 +381,7 @@ if [[ ! -z $1 ]]; then
 fi
 
 cd $HOME
-print_banner
+
 get_arch
 set_strings
 prepare_fs
